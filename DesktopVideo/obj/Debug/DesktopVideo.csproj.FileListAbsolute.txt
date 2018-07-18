@@ -1,0 +1,8 @@
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.Form1.resources
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.PlayerForm.resources
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.Properties.Resources.resources
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.csproj.GenerateResource.Cache
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\bin\Debug\DesktopVideo.exe
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\bin\Debug\DesktopVideo.pdb
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.exe
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.pdb
