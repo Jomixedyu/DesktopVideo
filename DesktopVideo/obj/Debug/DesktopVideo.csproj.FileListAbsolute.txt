@@ -6,3 +6,4 @@ G:\VSCsharpProject\DesktopVideo\DesktopVideo\bin\Debug\DesktopVideo.exe
 G:\VSCsharpProject\DesktopVideo\DesktopVideo\bin\Debug\DesktopVideo.pdb
 G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.exe
 G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.pdb
+G:\VSCsharpProject\DesktopVideo\DesktopVideo\obj\Debug\DesktopVideo.csproj.CoreCompileInputs.cache
